@@ -993,6 +993,8 @@ input, select, textarea {
 					width: 100%;
 				}
 
+
+
 				#thumbnails article .thumbnail:before {
 					pointer-events: none;
 					-moz-transition: opacity 0.25s ease;
